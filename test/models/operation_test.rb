@@ -9,4 +9,11 @@ class OperationTest < ActiveSupport::TestCase
   		assert true
   	}
   end
+  
+  test "obtener pieza utilizada" do
+  	if (operations(:one).inventory){
+  		assert true
+  	}
+  end
+
 end
