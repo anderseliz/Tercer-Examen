@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  serie: MyString
+  tamanio: 1
+  descripcion: MyString
+
+two:
+  serie: MyString
+  tamanio: 1
+  descripcion: MyString
